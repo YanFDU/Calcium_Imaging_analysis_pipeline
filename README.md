@@ -13,3 +13,7 @@ This tool is provided for research use.
 
 Developed by: [Yan Jin]
 Contact: [yanjin2022@g.ucla.edu]
+
+**Project Repository**: (https://github.com/YanFDU/Calcium_Imaging_analysis_pipeline)
+
+
