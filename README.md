@@ -5,7 +5,7 @@ This pipeline provides a standalone executable tool for analyzing calcium imagin
 Recommended Workflow
 1. Run "Bleach_correction.exe"
 2. Run "Suite2P_PyQt5_GUI.exe"
-3. MatLab plots （copy this folder to "C:\", scripts will be automatically copied to your new folder that you set up in step 2. Use MatLab to open the folder and run the scripts you want.）
+3. MatLab plots （copy this folder to "C:\ ", scripts will be automatically copied to your new folder that you set up in step 2. Use MatLab to open the folder and run the scripts.）
 
 
 This tool is provided for research use. 
