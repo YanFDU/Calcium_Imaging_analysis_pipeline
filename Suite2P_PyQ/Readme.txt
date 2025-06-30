@@ -1,7 +1,7 @@
 🔹 1. This executable file were tested on Win_X64 
 
 
-🔹 2. You don't need to install anaconda or suite2P to get "Suite2P_PyQt5_GUI.exe" work. But a system (win_X64) with Visual C++ Redistributable.
+🔹 2. You don't need to install anaconda or suite2P to get "Suite2P_PyQt5_GUI.exe" work. But a system (win_X64) with Visual C++ Redistributable is needed.
 **If your app fails with a DLL error like vcruntime140.dll missing, install the Visual C++ Redistributable.
 
 
