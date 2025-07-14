@@ -8,7 +8,7 @@ Recommended Workflow
 3. MatLab plots （copy this folder to "C:\ ", scripts will be automatically copied to your new folder that you set up in step 2. Use MatLab to open the folder and run the scripts.）
 
 
-This tool is provided for research use. 
+This tool is provided for research use only. 
 
 
 Developed by: [Yan Jin]
